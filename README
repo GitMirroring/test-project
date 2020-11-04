@@ -17,7 +17,7 @@ This git repository can be accessed in the following ways:
     http://git.savannah.gnu.org/cgit/test-project.git
     http://git.savannah.gnu.org/gitweb/?p=test-project.git
     http://git.savannah.gnu.org/r/test-project.git
-    ssh://[USER]@git.savannah.gnu.org/srv/git/test-project.git
     https://git.savannah.gnu.org/cgit/test-project.git
     https://git.savannah.gnu.org/gitweb/?p=test-project.git
     https://git.savannah.gnu.org/r/test-project.git
+    ssh://[USER]@git.savannah.gnu.org/srv/git/test-project.git
